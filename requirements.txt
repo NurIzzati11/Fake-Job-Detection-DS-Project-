@@ -6,5 +6,4 @@ unidecode
 word2number
 contractions
 Image
-sklearn
-pickle
+scikit-learn
