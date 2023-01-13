@@ -7,3 +7,4 @@ word2number
 contractions
 Image
 scikit-learn
+nltk
