@@ -13,7 +13,7 @@ logo=Image.open("logo.png")
 presentation=Image.open("presentation pic.PNG")
 #logo=logo.resize((150,100))
 
-model = joblib.load("models/tfidf_LR.pkl")
+model = joblib.load("model/tfidf_LR.pkl")
 
 nlp = spacy.load("en_core_web_sm")
 
