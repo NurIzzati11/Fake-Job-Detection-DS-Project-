@@ -1,0 +1,8 @@
+pandas
+joblib
+BeautifulSoup
+spacy
+unidecode
+word2number
+contractions
+Image
