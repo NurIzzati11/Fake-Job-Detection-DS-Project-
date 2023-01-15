@@ -120,7 +120,7 @@ with co1:
 with co2:
     #st.title("Authentikos")
     st.image(logo, use_column_width=True)
-    st.markdown("<h1 style='text-align: left; color: white;'>Authentikos</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: white;'>Authentikos</h1>", unsafe_allow_html=True)
     
 with co3:
     st.write(' ')
